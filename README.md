@@ -15,7 +15,7 @@ Minimal Python tool to quickly check URLs for HTTPS 🔒, HTTP status 📡, and 
 ## 🚀 Usage
 ```bash
 pip install requests colorama
-python safescan.py
+python safe_scan.py
 ```
 **Enter a URL when prompted 🌐**
 
